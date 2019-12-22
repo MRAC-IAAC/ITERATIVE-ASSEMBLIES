@@ -48,8 +48,16 @@ This set of data was included into the grasshopper definition in order to create
 Iterative assemblies is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at Master in Robotics and Advanced Construction in 2019 by:
 
 <dl>
-__Students:__ _Elena Jaramazovic, Gjeorgjia Lilo, Lorenzo Masini_
+  
+__Students:__ 
+<dl> 
+  
+  _Elena Jaramazovic, Gjeorgjia Lilo, Lorenzo Masini_
+ </dl>
+<dl>
+  
+__Faculty:__ _Alessio Erioli_
 
 <dl>
-__Faculty:__ _Alessio Erioli_
+  
 __Faculty Assistant:__ _Eugenio Bettucchi_
